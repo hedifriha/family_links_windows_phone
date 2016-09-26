@@ -1,0 +1,177 @@
+﻿<Page
+    x:Class="App8.Family"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App8"
+     xmlns:drawerLayout="using:DrawerLayout"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar x:Name="familyBar" Background="Green">
+            <CommandBar.PrimaryCommands >
+                <AppBarButton x:ConnectionId='1'  Label="LogOut" Icon="Undo"                           />
+                <AppBarButton Label="LifeStory" Icon="Edit" />
+                <AppBarButton x:ConnectionId='2' Label="Tree" Icon="Go"                     />
+                <AppBarButton x:ConnectionId='3' Label="Add" Icon="Add"                         />
+                <AppBarButton x:ConnectionId='4' x:Name="link_appBar_button" Label="Link" Icon="Link"                                Visibility="Collapsed"/>
+            </CommandBar.PrimaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid x:Name="LayoutRoot">
+        <drawerLayout:DrawerLayout x:Name="DrawerLayout" >
+            <Grid>
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+                    <Image x:ConnectionId='16' Margin="5"  x:Name="DrawerIcon" Width="50" Height="50" Grid.Column="0" Source="/Assets/ic_drawer.png" HorizontalAlignment="Left"                            />
+                    <TextBlock Text="MY APPLICATION" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Name="lastNameLabel" Text="Name" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+                <TextBlock Text="'s Family" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <StackPanel Orientation="Vertical" Canvas.ZIndex="100" RenderTransformOrigin="0.5,0.5">
+                <StackPanel.RenderTransform>
+                    <CompositeTransform/>
+                </StackPanel.RenderTransform>
+                <TextBlock TextWrapping="Wrap" Text="Parent's" FontSize="26.667" FontFamily="Segoe UI"/>
+                <StackPanel  Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" >
+                    <Image x:Name="imageM" Width="100" Source="Assets/mother.jpg"/>
+                    <TextBlock TextWrapping="Wrap" Text="Mother's Name" FontSize="26.667" FontFamily="Segoe UI"/>
+                </StackPanel>
+                <StackPanel  Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" >
+                    <Image x:Name="imageF" Width="100" Source="Assets/father.jpg"/>
+                    <TextBlock TextWrapping="Wrap" Text="Father's Name" FontSize="26.667" FontFamily="Segoe UI"/>
+                </StackPanel>
+
+                <TextBlock TextWrapping="Wrap" Text="Brother's" FontSize="26.667" FontFamily="Segoe UI"/>
+                <StackPanel  Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" >
+                    <Image x:Name="imageB1" Width="100" Source="Assets/Sister.png" Visibility="Visible"/>
+                    <TextBlock TextWrapping="Wrap" Text="Sister's Name" FontSize="26.667" FontFamily="Segoe UI"/>
+                </StackPanel>
+                
+                <TextBlock TextWrapping="Wrap" Text="Sister's" FontSize="26.667" FontFamily="Segoe UI"/>
+                <StackPanel  Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" >
+                    <Image x:Name="imageB2" Width="100" Source="Assets/Brother.png"/>
+                    <TextBlock TextWrapping="Wrap" Text="Brother's Name" FontSize="26.667" FontFamily="Segoe UI"/>
+                </StackPanel>
+<!--*****************FLOATING BUTTON********************-->
+                <StackPanel Name="parentButton" Width="60px" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" VerticalAlignment="Bottom" Visibility="Collapsed">
+                    <StackPanel.RenderTransform>
+                        <CompositeTransform TranslateY="-180"/>
+                    </StackPanel.RenderTransform>
+                    <Button x:ConnectionId='15' x:Name="parent_Button" HorizontalAlignment="Center" BorderThickness="0" Height="70" Margin="-25,0,-29,0"                       >
+                        <Button.Background>
+                            <ImageBrush ImageSource="Assets/p50.png" Stretch="Uniform"/>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+                <StackPanel Name="spouseButton" Width="56" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" VerticalAlignment="Bottom" Visibility="Collapsed">
+                    <StackPanel.RenderTransform>
+                        <CompositeTransform TranslateY="-180"/>
+                    </StackPanel.RenderTransform>
+                    <Button x:ConnectionId='14' x:Name="spouse_Button" HorizontalAlignment="Center" BorderThickness="0" Height="70"                        >
+                        <Button.Background>
+                            <ImageBrush ImageSource="Assets/s50.png" Stretch="Uniform"/>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+                <StackPanel Name="siblingButton" Width="56" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" VerticalAlignment="Bottom" Visibility="Collapsed">
+                    <StackPanel.RenderTransform>
+                        <CompositeTransform TranslateY="-180"/>
+                    </StackPanel.RenderTransform>
+                    <Button x:ConnectionId='13' x:Name="siblings_Button" HorizontalAlignment="Center" BorderThickness="0" Height="70"                          >
+                        <Button.Background>
+                            <ImageBrush ImageSource="Assets/b50.png" Stretch="Uniform"/>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+                <StackPanel Name="childrenButton" Width="56" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" VerticalAlignment="Bottom" Visibility="Collapsed">
+                    <StackPanel.RenderTransform>
+                        <CompositeTransform TranslateY="-180"/>
+                    </StackPanel.RenderTransform>
+                    <Button x:ConnectionId='12' x:Name="children_Button" HorizontalAlignment="Center" BorderThickness="0" Height="70"                          >
+                        <Button.Background>
+                            <ImageBrush ImageSource="Assets/c50.png" Stretch="Uniform"/>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Grid>
+            <Grid x:Name="ListFragment">
+                <ScrollViewer>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="50" />
+
+                        </Grid.RowDefinitions>
+
+                        <Grid x:Name="MenuIdentity" Background="Transparent" Grid.Row="0">
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel>
+                                    <Image Source="/Assets/469367_334435003283287_1429825173_o.jpg" Height="150" Width="450"/>
+                                </StackPanel>
+                                <StackPanel Margin="5" Orientation="Horizontal">
+                                    <Image Source="/Assets/Brother.png" Height="48" Width="48" Stretch="UniformToFill" />
+                                    <TextBlock x:Name="FullName" Text="Menu" Foreground="Black"  FontSize="18" TextWrapping="Wrap" Margin="10 0 0 0"  />
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+
+                        <Grid x:Name="MenuActions" Background="Transparent" Grid.Row="1">
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="10 10 0 5" VerticalAlignment="Bottom">
+                                <TextBlock x:ConnectionId='11'  FontWeight="SemiBold" Text="Home" Foreground="Black"  VerticalAlignment="Bottom" HorizontalAlignment="Left"                           FontSize="16"  />
+                            </StackPanel>
+                        </Grid>
+
+                        <Grid x:ConnectionId='5' x:Name="Item1" Background="Transparent" Grid.Row="2"                            >
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="20 10 0 5" VerticalAlignment="Bottom">
+                                <TextBlock x:ConnectionId='10'   Text="Life story" Foreground="Black"  VerticalAlignment="Bottom" HorizontalAlignment="Left"                             FontSize="18" />
+                            </StackPanel>
+                        </Grid>
+
+                        <Grid x:ConnectionId='6' x:Name="Item2" Background="Transparent" Grid.Row="3"                            >
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="20 10 0 5" VerticalAlignment="Bottom">
+                                <TextBlock x:ConnectionId='9' Text="Tree" Foreground="Black"  VerticalAlignment="Bottom" HorizontalAlignment="Left"                              FontSize="18" />
+                            </StackPanel>
+                        </Grid>
+                        <Grid x:ConnectionId='7' x:Name="Item3" Background="Transparent" Grid.Row="4"                      >
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="20 10 0 5" VerticalAlignment="Bottom">
+                                <TextBlock x:ConnectionId='8' Text="Mediatheque" Foreground="Black"  VerticalAlignment="Bottom" HorizontalAlignment="Left"                        FontSize="18" />
+                            </StackPanel>
+                        </Grid>
+                    
+                    </Grid>
+                </ScrollViewer>
+
+            </Grid>
+
+        </drawerLayout:DrawerLayout>
+    </Grid>
+</Page>
+

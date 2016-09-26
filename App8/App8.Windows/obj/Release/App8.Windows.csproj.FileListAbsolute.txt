@@ -1,0 +1,11 @@
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.Windows\obj\Release\App8.Windows.csprojResolveAssemblyReference.cache
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.Windows\obj\Release\App.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.Windows\obj\Release\App.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.Windows\obj\Release\MainPage.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.Windows\obj\Release\MainPage.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.Windows\obj\Release\XamlTypeInfo.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.Windows\obj\Release\App.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.Windows\obj\Release\MainPage.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.Windows\obj\Release\App.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.Windows\obj\Release\MainPage.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.Windows\obj\Release\XamlSaveStateFile.xml

@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="App8.View.CalculLove"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App8.View"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Green">
+
+    <Grid>
+        <StackPanel>
+        <TextBlock Text="Family Links" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+        <TextBlock Text="Love Percent" FontSize="50" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Margin="0,12,0,12">
+            <StackPanel  Orientation="Horizontal" Margin="0,12,0,12">
+                <TextBox x:Name="name1" Width="150"  PlaceholderText=" first name"/>
+            </StackPanel>
+            <StackPanel  Orientation="Vertical" Margin="0,12,0,12">
+                <Image Source="/Assets/lovet.png" Height="80" Width="80"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Name="Poucentage" Text="{Binding}" FontSize="50" />
+                 
+                </StackPanel>
+                    <Button Name="calcul" Content="Calculer" Background="Red" Click="calculLove" />
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal" Margin="0,12,0,12">
+                <TextBox x:Name="name2"  Width="150" PlaceholderText=" second name"/>
+                   
+            </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

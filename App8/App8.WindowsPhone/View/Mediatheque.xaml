@@ -1,0 +1,126 @@
+﻿<Page
+    x:Class="App8.Mediatheque"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App8"
+    xmlns:drawerLayout="using:DrawerLayout"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Label=" % Love"  Icon="Like" Click="AppBarButton_Click1"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid x:Name="LayoutRoot" Background="Green" >
+        <drawerLayout:DrawerLayout x:Name="DrawerLayout" >
+            <Grid>
+                <Grid.ChildrenTransitions>
+                    <TransitionCollection>
+                        <EntranceThemeTransition/>
+                    </TransitionCollection>
+                </Grid.ChildrenTransitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <!-- Title Panel -->
+                <StackPanel Grid.Row="0" Margin="19,0,0,0" Orientation="Horizontal">
+                    <Image Margin="5"  x:Name="DrawerIcon" Width="50" Height="50" Grid.Column="0" Source="/Assets/ic_drawer.png" HorizontalAlignment="Left" Tapped="DrawerIcon_Tapped" />
+                    <TextBlock Text="Search Person" Style="{ThemeResource TitleTextBlockStyle}" Margin="12,12,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="32"/>
+                </StackPanel>
+                <TextBox Grid.Row="0" PlaceholderText="Search Person" Margin="12,66,12,0" x:Name="SearchTextBox" TextChanged="contactFilterString_TextChanged" />
+                <Grid Grid.Row="1"  Margin="19,9.5,19,0">
+                    <ListView Name="lst" ItemsSource="{Binding}" SelectionChanged="lst_SelectionChanged">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal" Margin="12,0,12,0">
+                                    <Image Name="ImageAuthor" Source="{Binding Imagel}" Stretch="UniformToFill" Width="120" Height="120"></Image>
+                                    <StackPanel Orientation="Vertical">
+                                        <TextBlock  Name="name"  Text="{Binding Name}" FontFamily="30" FontSize="30"  />
+                                        <TextBlock  Name="lastname"  Text="{Binding LastName}" FontFamily="30" FontSize="30"  />
+                                    </StackPanel>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </Grid>
+            </Grid>
+            <Grid x:Name="ListFragment" Background="#FFB7E0C6"  >
+                <ScrollViewer>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="70" />
+
+                        </Grid.RowDefinitions>
+
+                        <Grid x:Name="MenuIdentity" Background="Transparent" Grid.Row="0"  Tapped="Profil_Tapped">
+                            <StackPanel Orientation="Vertical" Margin="-10,20,10,-10">
+                                <StackPanel>
+                                    <Ellipse Width="100"
+                                             Height="100">
+                                        <Ellipse.Fill>
+                                            <ImageBrush>
+                                                <ImageBrush.ImageSource>
+                                                    <BitmapImage x:Name="img1"  UriSource="Assets/12072739_898436136897369_8226113446022259743_n.jpg" />
+                                                </ImageBrush.ImageSource>
+                                            </ImageBrush>
+                                        </Ellipse.Fill>
+                                    </Ellipse>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+
+                        <Grid x:Name="Item0" Background="Transparent" Grid.Row="1" Tapped="Profil_Tapped" Margin="0,0,2,0">
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="20 10 0 5" Orientation="Horizontal" VerticalAlignment="center">
+                                <Image Source="ms-appx:///Assets/person.png" Height="50" Margin="0,0,2,0" Width="45" />
+                                <TextBlock Text="Profil" Foreground="Black"  VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="24" FontWeight="Bold" />
+                            </StackPanel>
+                        </Grid>
+
+                        <Grid x:Name="Item1" Background="Transparent" Grid.Row="2" Tapped="Home_Tapped" Margin="0,0,2,0">
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="20 10 0 5" Orientation="Horizontal" VerticalAlignment="center">
+                                <Image Source="ms-appx:///Assets/list.png" Height="40" Margin="0,0,8,0" Width="34" />
+                                <TextBlock  FontWeight="Bold" Text="My family" Foreground="Black"  VerticalAlignment="Center" HorizontalAlignment="Left" Tapped="Home_Tapped" FontSize="24"  />
+                            </StackPanel>
+                        </Grid>
+                        <Grid x:Name="Item2" Background="Transparent" Grid.Row="3" Tapped="Tree_Tapped">
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="19 10 0 5" Orientation="Horizontal" VerticalAlignment="Center">
+                                <Image Source="ms-appx:///Assets/ic_action2.png" Height="46" Margin="0,0,10,0" Width="40" />
+                                <TextBlock Text="Tree" Foreground="Black"  VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="24" FontWeight="Bold" />
+                            </StackPanel>
+                        </Grid>
+                        <Grid x:Name="Item3" Background="Transparent" Grid.Row="4" Tapped="Search_Tapped">
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="22 10 0 5" Orientation="Horizontal" VerticalAlignment="Center">
+                                <Image  Source="ms-appx:///Assets/search-icon.png" Height="42" Margin="0,0,13,0" Width="30" />
+                                <TextBlock   Text="Search" Foreground="Black"  VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="24" FontWeight="Bold" />
+                            </StackPanel>
+                        </Grid>
+                        <Grid x:Name="Item4" Background="Transparent" Grid.Row="5" Tapped="Logout_Tapped">
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="20 5 5 5" Orientation="Horizontal" VerticalAlignment="Center">
+                                <Image Source="ms-appx:///Assets/logout.png" Height="43" Margin="0,0,12,0" Width="35" />
+                                <TextBlock  Text="Logout" Foreground="Black"  VerticalAlignment="Center" HorizontalAlignment="Left"  FontSize="24" FontWeight="Bold" />
+                            </StackPanel>
+                        </Grid>
+
+                    </Grid>
+
+                </ScrollViewer>
+            </Grid>
+
+        </drawerLayout:DrawerLayout>
+    </Grid>
+</Page>

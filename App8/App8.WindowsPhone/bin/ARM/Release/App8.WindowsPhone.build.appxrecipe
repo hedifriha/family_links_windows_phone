@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HEDI</Machine>
+    <WindowsUser>hedi</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>a105227b-c047-45ac-8e05-6d884a1e3680</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\ARM\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\App8.WindowsPhone.exe">
+      <PackagePath>App8.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\packages\DrawerLayout.1.0.4\lib\DrawerLayout.dll">
+      <PackagePath>DrawerLayout.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\packages\Parse.1.6.1\lib\wpa81\Parse.dll">
+      <PackagePath>Parse.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\packages\Parse.1.6.1\lib\wpa81\Parse.WinRT.dll">
+      <PackagePath>Parse.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\469367_334435003283287_1429825173_o.jpg">
+      <PackagePath>Assets\469367_334435003283287_1429825173_o.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\father.jpg">
+      <PackagePath>Assets\father.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\header.jpg">
+      <PackagePath>Assets\header.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\header3.jpg">
+      <PackagePath>Assets\header3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\mother.jpg">
+      <PackagePath>Assets\mother.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\Tree1.jpg">
+      <PackagePath>Assets\Tree1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\Tree3.jpg">
+      <PackagePath>Assets\Tree3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\b100.png">
+      <PackagePath>Assets\b100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\b150.png">
+      <PackagePath>Assets\b150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\b50.png">
+      <PackagePath>Assets\b50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\Brother.png">
+      <PackagePath>Assets\Brother.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\c100.png">
+      <PackagePath>Assets\c100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\c150.png">
+      <PackagePath>Assets\c150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\c50.png">
+      <PackagePath>Assets\c50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\ic_drawer - Copy.png">
+      <PackagePath>Assets\ic_drawer - Copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\ic_drawer.png">
+      <PackagePath>Assets\ic_drawer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\logo.png">
+      <PackagePath>Assets\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\logoapp.png">
+      <PackagePath>Assets\logoapp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\p.png">
+      <PackagePath>Assets\p.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\p100.png">
+      <PackagePath>Assets\p100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\p150.png">
+      <PackagePath>Assets\p150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\p50.png">
+      <PackagePath>Assets\p50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\p70.png">
+      <PackagePath>Assets\p70.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\photoprofil.png">
+      <PackagePath>Assets\photoprofil.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\s100.png">
+      <PackagePath>Assets\s100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\s150.png">
+      <PackagePath>Assets\s150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\s50.png">
+      <PackagePath>Assets\s50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\Sister.png">
+      <PackagePath>Assets\Sister.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\splash_screen.png">
+      <PackagePath>Assets\splash_screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\App8.WindowsPhone.xr.xml">
+      <PackagePath>App8.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\AddRelation.xbf">
+      <PackagePath>AddRelation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\Authent.xbf">
+      <PackagePath>Authent.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\BasicPage1.xbf">
+      <PackagePath>BasicPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\Family.xbf">
+      <PackagePath>Family.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\Familys.xbf">
+      <PackagePath>Familys.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\lifeStory.xbf">
+      <PackagePath>lifeStory.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\Mediatheque.xbf">
+      <PackagePath>Mediatheque.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\Register.xbf">
+      <PackagePath>Register.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\ARM\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

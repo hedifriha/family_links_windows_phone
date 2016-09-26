@@ -1,0 +1,155 @@
+﻿<Page
+    x:Class="App8.lifeStory"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App8"
+    xmlns:drawerLayout="using:DrawerLayout"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource AppBarBackgroundThemeBrush}">
+
+    <Page.BottomAppBar>
+        <CommandBar x:Name="familyBar">
+            <CommandBar.PrimaryCommands >
+                <AppBarButton x:ConnectionId='1' Label="Add" Icon="Add"                             />
+            </CommandBar.PrimaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+
+    <Grid x:Name="LayoutRoot" Background="Green" >
+        <Grid HorizontalAlignment="Right" VerticalAlignment="Bottom">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF3ADE41" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Popup x:Name="pop" IsLightDismissEnabled="True">
+                <StackPanel x:Name="panel" Orientation="Vertical" Height="282" Width="132" RenderTransformOrigin="0.5,0.5" Background="{ThemeResource SliderTrackDisabledBackgroundThemeBrush}">
+                    <StackPanel.Projection>
+                        <PlaneProjection GlobalOffsetX="-140" GlobalOffsetY="-204" GlobalOffsetZ="10"/>
+                    </StackPanel.Projection>
+                    <Button x:ConnectionId='10' Content="Spouse" Height="70" Width="120"  Margin="6,0,6,0"                        />
+                    <Button x:ConnectionId='11' Content="Brother" Height="70" Width="120"  Margin="6,0,6,0"                          />
+                    <Button x:ConnectionId='12' Content="Children" Height="70" Width="120"  Margin="6,0,6,2"                          />
+                </StackPanel>
+            </Popup>
+        </Grid>
+        <drawerLayout:DrawerLayout x:Name="DrawerLayout" >
+            <Grid>
+                <Grid.ChildrenTransitions>
+                    <TransitionCollection>
+                        <EntranceThemeTransition/>
+                    </TransitionCollection>
+                </Grid.ChildrenTransitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <!-- Title Panel -->
+                <StackPanel Grid.Row="0" Margin="19,0,0,0" Orientation="Horizontal">
+                    <Image x:ConnectionId='9' Margin="5"  x:Name="DrawerIcon" Width="50" Height="50" Grid.Column="0" Source="/Assets/ic_drawer.png" HorizontalAlignment="Left"                            />
+                    <TextBlock Text="My profile" Style="{ThemeResource TitleTextBlockStyle}" VerticalAlignment="Top" Margin="12,12,0,0" FontSize="32" FontWeight="Bold"/>
+                </StackPanel>
+
+                <!--TODO: Content should be placed within the following grid-->
+                <Grid Grid.Row="1"  Margin="19,9.5,19,0">
+                    <StackPanel>
+                        <Image Name="img" Source="{Binding}" Height="200" Width="300" />
+                        <TextBlock Name="NameU" TextWrapping="Wrap" Text="   name" FontSize="35" FontFamily="Segoe UI"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Name="DOB1" TextWrapping="Wrap" Text="Date of Birth : " FontSize="26.667" FontFamily="Segoe UI"/>
+                            <TextBlock Name="DOB" TextWrapping="Wrap" Text="Dob" FontSize="26.667" FontFamily="Segoe UI"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock TextWrapping="Wrap" Text="Job : " FontSize="26.667" FontFamily="Segoe UI"/>
+                            <TextBlock Name="Job" TextWrapping="Wrap" Text="aa" FontSize="26.667" FontFamily="Segoe UI"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock TextWrapping="Wrap" Text="Country : " FontSize="26.667" FontFamily="Segoe UI"/>
+                            <TextBlock Name="Country" TextWrapping="Wrap" Text="bb" FontSize="26.667" FontFamily="Segoe UI"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </Grid>
+
+            <Grid x:Name="ListFragment" Background="#FFB7E0C6"  >
+                <ScrollViewer>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="70" />
+
+                        </Grid.RowDefinitions>
+
+                        <Grid x:ConnectionId='2' x:Name="MenuIdentity" Background="Transparent" Grid.Row="0"                        >
+                            <StackPanel Orientation="Vertical" Margin="-10,20,10,-10">
+                                <StackPanel>
+                                    <Ellipse Width="100"
+                                             Height="100">
+                                        <Ellipse.Fill>
+                                            <ImageBrush>
+                                                <ImageBrush.ImageSource>
+                                                    <BitmapImage x:Name="img1"  UriSource="Assets/12072739_898436136897369_8226113446022259743_n.jpg" />
+                                                </ImageBrush.ImageSource>
+                                            </ImageBrush>
+                                        </Ellipse.Fill>
+                                    </Ellipse>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+
+                        <Grid x:ConnectionId='3' x:Name="Item0" Background="Transparent" Grid.Row="1"                        Margin="0,0,2,0">
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="20 10 0 5" Orientation="Horizontal" VerticalAlignment="center">
+                                <Image Source="ms-appx:///Assets/person.png" Height="50" Margin="0,0,2,0" Width="45" />
+                                <TextBlock Text="Profil" Foreground="Black"  VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="24" FontWeight="Bold" />
+                            </StackPanel>
+                        </Grid>
+
+                        <Grid x:ConnectionId='4' x:Name="Item1" Background="Transparent" Grid.Row="2"                      Margin="0,0,2,0">
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="20 10 0 5" Orientation="Horizontal" VerticalAlignment="center">
+                                <Image Source="ms-appx:///Assets/list.png" Height="40" Margin="0,0,8,0" Width="34" />
+                                <TextBlock x:ConnectionId='8'  FontWeight="Bold" Text="My family" Foreground="Black"  VerticalAlignment="Center" HorizontalAlignment="Left"                      FontSize="24"  />
+                            </StackPanel>
+                        </Grid>
+                        <Grid x:ConnectionId='5' x:Name="Item2" Background="Transparent" Grid.Row="3"                     >
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="19 10 0 5" Orientation="Horizontal" VerticalAlignment="Center">
+                                <Image Source="ms-appx:///Assets/ic_action2.png" Height="46" Margin="0,0,10,0" Width="40" />
+                                <TextBlock Text="Tree" Foreground="Black"  VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="24" FontWeight="Bold" />
+                            </StackPanel>
+                        </Grid>
+                        <Grid x:ConnectionId='6' x:Name="Item3" Background="Transparent" Grid.Row="4"                       >
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="22 10 0 5" Orientation="Horizontal" VerticalAlignment="Center">
+                                <Image  Source="ms-appx:///Assets/search-icon.png" Height="42" Margin="0,0,13,0" Width="30" />
+                                <TextBlock   Text="Search" Foreground="Black"  VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="24" FontWeight="Bold" />
+                            </StackPanel>
+                        </Grid>
+                        <Grid x:ConnectionId='7' x:Name="Item4" Background="Transparent" Grid.Row="5"                       >
+                            <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 0 1" />
+                            <StackPanel Margin="20 5 5 5" Orientation="Horizontal" VerticalAlignment="Center">
+                                <Image Source="ms-appx:///Assets/logout.png" Height="43" Margin="0,0,12,0" Width="35" />
+                                <TextBlock  Text="Logout" Foreground="Black"  VerticalAlignment="Center" HorizontalAlignment="Left"  FontSize="24" FontWeight="Bold" />
+                            </StackPanel>
+                        </Grid>
+
+                    </Grid>
+
+                </ScrollViewer>
+            </Grid>
+
+        </drawerLayout:DrawerLayout>
+    </Grid>
+</Page>
+

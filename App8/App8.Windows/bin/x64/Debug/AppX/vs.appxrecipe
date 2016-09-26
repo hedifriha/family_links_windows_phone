@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SEKIZ-HP</Machine>
+    <WindowsUser>L</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>cfcb28b2-2c8b-4386-84ce-92134c143a9c</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\l\documents\visual studio 2015\Projects\App8\App8\App8.Windows\obj\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>56B9E3E5E39966ADC042ED466EFF999D97514A7D3E9277C0C518B19938C78D81</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cfcb28b2-2c8b-4386-84ce-92134c143a9c_1.0.0.0_x64__8aspe2pvsdb9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cfcb28b2-2c8b-4386-84ce-92134c143a9c_8aspe2pvsdb9m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cfcb28b2-2c8b-4386-84ce-92134c143a9c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=L</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\l\documents\visual studio 2015\Projects\App8\App8\App8.Windows\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-06T22:12:06.799</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\l\documents\visual studio 2015\Projects\App8\App8\App8.Windows\bin\x64\Debug\App8.Windows.exe">
+      <PackagePath>App8.Windows.exe</PackagePath>
+      <Modified>2015-10-06T22:12:00.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\l\documents\visual studio 2015\Projects\App8\App8\App8.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\l\documents\visual studio 2015\Projects\App8\App8\App8.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\l\documents\visual studio 2015\Projects\App8\App8\App8.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\l\documents\visual studio 2015\Projects\App8\App8\App8.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\l\documents\visual studio 2015\Projects\App8\App8\App8.Windows\bin\x64\Debug\App8.Windows.xr.xml">
+      <PackagePath>App8.Windows.xr.xml</PackagePath>
+      <Modified>2015-10-06T22:11:59.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\l\documents\visual studio 2015\Projects\App8\App8\App8.Windows\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-10-06T22:11:59.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\l\documents\visual studio 2015\Projects\App8\App8\App8.Windows\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-10-06T22:11:59.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\l\documents\visual studio 2015\Projects\App8\App8\App8.Windows\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-06T22:12:04.200</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

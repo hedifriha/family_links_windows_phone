@@ -1,0 +1,892 @@
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\App.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\AddRelation.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Authent.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\BasicPage1.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Family.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Familys.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\lifeStory.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Mediatheque.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Register.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.xr.xml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.exe
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.pdb
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\resources.pri
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.build.appxrecipe
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\DrawerLayout.dll
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Parse.dll
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.dll
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Parse.xml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.xml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App.g.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.g.i.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.g.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Authent.g.i.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Authent.g.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.g.i.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.g.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Family.g.i.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Family.g.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Familys.g.i.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Familys.g.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.g.i.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.g.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.g.i.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.g.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Register.g.i.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Register.g.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App.xaml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.xaml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Authent.xaml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.xaml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Family.xaml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Familys.xaml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.xaml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.xaml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Register.xaml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Authent.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Family.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Familys.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Register.xbf
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.exe
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.pdb
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hedi\Desktop\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\App.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\AddRelation.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Authent.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\BasicPage1.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\BasicPage2.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Family.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Familys.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\lifeStory.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Mediatheque.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Register.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Register2.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.xr.xml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.exe
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.pdb
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\resources.pri
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.build.appxrecipe
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\DrawerLayout.dll
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Parse.dll
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.dll
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Parse.xml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.xml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.g.i.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Authent.g.i.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Authent.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.g.i.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\BasicPage2.g.i.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\BasicPage2.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Family.g.i.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Family.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Familys.g.i.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Familys.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.g.i.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.g.i.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Register.g.i.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Register.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Register2.g.i.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Register2.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App.xaml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.xaml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Authent.xaml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.xaml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Family.xaml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Familys.xaml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.xaml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.xaml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Register.xaml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Register2.xaml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Authent.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Family.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Familys.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Register.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\Register2.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\BasicPage2.xaml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\BasicPage2.xbf
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.exe
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.pdb
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\L\Documents\Visual Studio 2015\Projects\App18-11a11-53\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\App.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\AddRelation.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\Authent.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\BasicPage1.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\BasicPage2.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\Family.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\Familys.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\lifeStory.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\Mediatheque.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\Register.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\Register2.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.xr.xml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.exe
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.pdb
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\resources.pri
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.build.appxrecipe
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\DrawerLayout.dll
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\Parse.dll
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.dll
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\Parse.xml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.xml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\App.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.g.i.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Authent.g.i.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Authent.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.g.i.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage2.g.i.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage2.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Family.g.i.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Family.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Familys.g.i.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Familys.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.g.i.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.g.i.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Register.g.i.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Register.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Register2.g.i.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Register2.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\App.xaml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.xaml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.xaml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage2.xaml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Family.xaml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Familys.xaml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.xaml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.xaml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Register2.xaml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\App.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage2.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Family.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Familys.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Register2.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Authent.xaml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Register.xaml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Authent.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\Register.xbf
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.exe
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.pdb
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\hedi\Desktop\App8-le6-12-8h\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\App.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Authent.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Authent.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage2.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage2.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Family.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Family.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\FamilyList.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\FamilyList.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Familys.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Familys.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Register.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Register.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Register2.g.i.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Register2.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\App.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Authent.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage2.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Familys.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Register.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Register2.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\App.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\AddRelation.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Authent.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage1.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\BasicPage2.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Familys.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\lifeStory.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Mediatheque.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Register.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Register2.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\App.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\AddRelation.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\Authent.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\BasicPage1.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\BasicPage2.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\Family.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\FamilyList.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\Familys.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\lifeStory.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\Mediatheque.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\Register.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\Register2.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.xr.xml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.exe
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.pdb
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\resources.pri
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.build.appxrecipe
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\DrawerLayout.dll
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\Parse.dll
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.dll
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\Parse.xml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.xml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Family.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\FamilyList.xaml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\Family.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\FamilyList.xbf
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.exe
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.pdb
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\L\Desktop\wp\App8-le9-12-00h\App8\App8\App8.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\App.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\AddRelation.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\Authent.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\BasicPage1.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\BasicPage2.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\Family.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\FamilyList.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\Familys.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\lifeStory.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\MainPage.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\Mediatheque.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\Register.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\Register2.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.xr.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.exe
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.pdb
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\resources.pri
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.build.appxrecipe
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\DrawerLayout.dll
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\Parse.dll
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.dll
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\Parse.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\App.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage1.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage1.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage2.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage2.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Family.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Family.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\MainPage.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\MainPage.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Register.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Register.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\App.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage1.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage2.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Family.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\MainPage.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Register.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\App.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage1.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage2.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Family.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\MainPage.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Register.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.exe
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.pdb
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\Facebook.dll
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\Facebook.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\bin\Release\View\ProfilSelected.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\AddRelation.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Authent.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\BasicPage1.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\BasicPage2.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Family.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\FamilyList.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Familys.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\lifeStory.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\MainPage.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Mediatheque.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\ProfilSelected.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Register.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Register2.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.xr.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.exe
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.pdb
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\resources.pri
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.build.appxrecipe
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\DrawerLayout.dll
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Facebook.dll
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Parse.dll
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.dll
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Facebook.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Parse.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage1.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage1.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage2.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage2.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Family.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Family.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\MainPage.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\MainPage.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.g.i.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage1.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage2.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Family.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\MainPage.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.xaml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage1.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\BasicPage2.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Family.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\MainPage.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.xbf
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.exe
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.pdb
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hedi\Desktop\App8 9-12 10h30\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\AddRelation.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Authent.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\FamilyList.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Familys.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\lifeStory.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Mediatheque.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\ProfilSelected.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Register.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Register2.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.xr.xml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.exe
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.pdb
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\resources.pri
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.build.appxrecipe
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\DrawerLayout.dll
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Facebook.dll
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Parse.dll
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.dll
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Facebook.xml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Parse.xml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.xml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App.g.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.g.i.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.g.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.g.i.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.g.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.g.i.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.g.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.g.i.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.g.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.g.i.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.g.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.g.i.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.g.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.g.i.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.g.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register.g.i.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register.g.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.g.i.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.g.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App.xaml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.xaml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.xaml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.xaml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.xaml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.xaml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.xaml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.xaml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register.xaml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.xaml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.xbf
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.exe
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.pdb
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\L\Desktop\-family links wp le 7-1 a17h\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App.g.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.g.i.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.g.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.g.i.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.g.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.g.i.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.g.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.g.i.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.g.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.g.i.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.g.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.g.i.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.g.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.g.i.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.g.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register.g.i.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register.g.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.g.i.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.g.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App.xaml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.xaml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.xaml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.xaml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.xaml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.xaml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.xaml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register.xaml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.xaml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.exe
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.pdb
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.xaml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\AddRelation.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Authent.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\FamilyList.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Familys.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\lifeStory.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Mediatheque.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\ProfilSelected.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Register.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\Register2.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.xr.xml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.exe
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.pdb
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\resources.pri
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.build.appxrecipe
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\DrawerLayout.dll
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Facebook.dll
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Parse.dll
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.dll
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Facebook.xml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Parse.xml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.xml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\bin\Release\View\CalculLove.xbf
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\CalculLove.g.i.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\CalculLove.g.cs
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\CalculLove.xaml
+C:\Users\hedi\Desktop\FamilyLinks3\FamilyLinks\App8\App8\App8.WindowsPhone\obj\Release\View\CalculLove.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\App.g.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.g.i.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.g.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.g.i.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.g.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\CalculLove.g.i.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\CalculLove.g.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.g.i.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.g.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.g.i.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.g.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.g.i.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.g.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.g.i.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.g.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.g.i.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.g.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Register.g.i.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Register.g.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.g.i.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.g.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\App.xaml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.xaml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.xaml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\CalculLove.xaml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Register.xaml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.xaml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\App.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\CalculLove.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Register.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\App.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\View\AddRelation.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\View\Authent.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\View\CalculLove.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\View\FamilyList.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\View\Familys.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\View\lifeStory.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\View\Mediatheque.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\View\ProfilSelected.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\View\Register.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\View\Register2.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.xr.xml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.exe
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.pdb
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\resources.pri
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.build.appxrecipe
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\DrawerLayout.dll
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\Facebook.dll
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\Parse.dll
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.dll
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\Facebook.xml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\Parse.xml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.xml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.xaml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.xaml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.xaml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.xaml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.xaml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.xbf
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.exe
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.pdb
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\L\Desktop\wp\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\App.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\View\AddRelation.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\View\Authent.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\View\CalculLove.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\View\FamilyList.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\View\Familys.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\View\lifeStory.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\View\Mediatheque.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\View\ProfilSelected.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\View\Register.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\View\Register2.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.xr.xml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.exe
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.pdb
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\resources.pri
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\App8.WindowsPhone.build.appxrecipe
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\DrawerLayout.dll
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\Facebook.dll
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\Parse.dll
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.dll
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\Facebook.xml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\Parse.xml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\bin\Release\Parse.WinRT.xml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\App.g.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.g.i.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.g.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.g.i.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.g.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\CalculLove.g.i.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\CalculLove.g.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.g.i.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.g.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.g.i.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.g.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.g.i.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.g.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.g.i.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.g.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.g.i.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.g.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Register.g.i.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Register.g.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.g.i.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.g.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\App.xaml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.xaml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.xaml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\CalculLove.xaml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.xaml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.xaml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.xaml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.xaml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.xaml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Register.xaml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.xaml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\App.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\AddRelation.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Authent.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\CalculLove.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\FamilyList.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Familys.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\lifeStory.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Mediatheque.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\ProfilSelected.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Register.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\View\Register2.xbf
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.exe
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.pdb
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\App8.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hedi\Desktop\App8\App8\App8.WindowsPhone\obj\Release\ProjectArchitectures.txt

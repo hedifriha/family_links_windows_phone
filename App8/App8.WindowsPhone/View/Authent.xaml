@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="App8.Authent"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App8"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot" Background="Green" >
+    
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,59.5,19,0">
+            <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <Image x:Name="img" Source="/Assets/White.png" Height="180" Margin="0,0,0,0" />
+                <TextBox Background="White" x:Name="username" Header="Username"/>
+                <PasswordBox Background="White" x:Name="password" Header="Password"/>
+                <Button x:Name="Register" Height="20" Content="Register" HorizontalAlignment="Right" VerticalAlignment="Stretch" Margin="0,-10,0,0" Click="Register_Click" BorderBrush="{x:Null}" Foreground="Beige" BorderThickness="0" Canvas.ZIndex="-1"/>
+                <Button x:Name="CnxSimple" Content="Connect" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,-10,-0.333,0" Background="#FF56AA74" Click="CnxSimple_Click" BorderThickness="2.5"/>
+              
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>
